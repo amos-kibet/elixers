@@ -15,4 +15,15 @@ An actively updated list of companies using Elixir in their tech stack
 | [Yolo](https://careers.yolo.com/jobs)                                         | Games, fintech & blockchain        | Elixir, Phoenix, etc                                                              |
 | [ITonTech](https://iterontech.com/careers/)                                   | Software development agency        | Elixir, Phoenix, etc                                                              |
 | [Karuna](https://karuna.group/)                                               | Software development agency        | Elixir, Phoenix, etc                                                              |
+| [CoinJar](https://www.coinjar.com/au/careers)                                 | Fintech, crypto                    | Ruby & Elixir                                                                     |
+| [River](https://boards.greenhouse.io/riverfinancial)                          | Fintech, crypto                    | Elixir (Phoenix and LiveView), and JavaScript                                     |
+| [Compound Finance](https://compound.finance/)                                 | Fintech, crypto                    | Typescript, Elixir, Phoenix                                                       |
+| [COMRESOURCE](https://comresource.com/work-for-us/)                           | Business and Technology Consulting | Elixir, & many more                                                               |
+| [Madwell](https://careers.madwell.com/)                                       | Software development agency        | Elixir, PHP, React, etc                                                           |
+| [Jackpocket](https://jackpocket.com/careers/#career-list)                     | Lottery software                   | Elixir                                                                            |
+| [VIC.AI](https://www.vic.ai/)                                                 | Fintech                            | Elixir, Python, etc                                                               |
+| [Privy](https://www.privy.com/careers)                                        | Sales SaaS                         | Elixir (Phoenix Framework), Ruby (Rails), and JavaScript (React)                  |
+| Cell                                                                          | Cell                               | Cell                                                                              |
+| Cell                                                                          | Cell                               | Cell                                                                              |
+| Cell                                                                          | Cell                               | Cell                                                                              |
 | Cell                                                                          | Cell                               | Cell                                                                              |
